@@ -4648,7 +4648,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name=" Pts" costTypeId="8464-43e9-728d-c372" value="104.0"/>
+        <cost name=" Pts" costTypeId="8464-43e9-728d-c372" value="100.0"/>
         <cost name=" Pwr" costTypeId="0a66-bd1e-3b50-42a2" value="0.0"/>
       </costs>
     </selectionEntry>
